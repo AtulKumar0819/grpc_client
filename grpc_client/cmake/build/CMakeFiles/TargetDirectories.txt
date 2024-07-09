@@ -1,0 +1,4 @@
+/home/innobit/file_transfer_client/cmake/build/CMakeFiles/edit_cache.dir
+/home/innobit/file_transfer_client/cmake/build/CMakeFiles/file_transfer_client.dir
+/home/innobit/file_transfer_client/cmake/build/CMakeFiles/rebuild_cache.dir
+/home/innobit/file_transfer_client/cmake/build/CMakeFiles/hw_grpc_proto.dir
